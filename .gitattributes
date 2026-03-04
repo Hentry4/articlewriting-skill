@@ -1,0 +1,2 @@
+# Exclude README display images from source archive downloads
+assets/readme/** export-ignore
